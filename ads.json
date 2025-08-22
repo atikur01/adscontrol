@@ -1,5 +1,5 @@
 {
-  "interstitial": true,
-  "rewarded": false,
-  "millisecond": 60000
+  "interstitial": false,
+  "rewarded": true,
+  "millisecond": 99000
 }
